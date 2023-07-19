@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--[![My Qiita contributions](https://qiita-badge.apiapi.app/s/mono0926/contributions.svg)](http://qiita.com/mono0926) -->
+
+[![hikagami's github stats](https://github-readme-stats.vercel.app/api?username=hikagami0210)](https://github.com/anuraghazra/github-readme-stats)
+## Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=hikagami0210&theme=onedark&rank=-C,-B,-?)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My Skill
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,react,typescript)](https://skillicons.dev)
