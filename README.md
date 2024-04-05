@@ -1,4 +1,4 @@
-### くそざこプログラミング初心者
+### 🫨
 
 <!--
 **hikagami0210/hikagami0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
