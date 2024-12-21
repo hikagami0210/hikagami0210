@@ -2,6 +2,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hikagami0210)
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hikagami0210&show_icons=true&theme=radical)
+
 <!--
 **hikagami0210/hikagami0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
