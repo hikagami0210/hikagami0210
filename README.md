@@ -1,10 +1,6 @@
 ### 🫨
 
-![Profile Views](https://komarev.com/ghpvc/?username=hikagami0210)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hikagami0210&show_icons=true&theme=radical)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&lines=Hi,+I'm+hikagami0210;I'm+a+Developer)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&lines=Hi,+I'm+hikagami0210+I'm+a+Developer)
 
 <!--
 **hikagami0210/hikagami0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,3 +28,6 @@ Here are some ideas to get you started:
 
 ## My Skill
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,react,typescript)](https://skillicons.dev)
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
