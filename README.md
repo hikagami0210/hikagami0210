@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,react,typescript)](https://skillicons.dev)
 
 <!-- BLOG-POST-LIST:START -->
+- [Githubのプロフィールをカスタマイズしてみよう！【おすすめライブラリ紹介】](https://qiita.com/hikagami/items/c3c900c2dca795e9a770)
 - [TypeScriptのユーティリティ型を理解する](https://qiita.com/hikagami/items/6cff79db73ef671875a4)
 - [【json-server】json-serverのレスポンスをTypeScriptの型で縛りたい！](https://qiita.com/hikagami/items/b150d14760069fb83fff)
 - [JSON serverをモックサーバーとして使う時の小ネタ](https://qiita.com/hikagami/items/c189c9e2444268856224)
-- [Mermaid入門してみた](https://qiita.com/hikagami/items/f45028b11319b5ee1ec4)
 <!-- BLOG-POST-LIST:END -->
