@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,react,typescript)](https://skillicons.dev)
 
 <!-- BLOG-POST-LIST:START -->
+- [type-challenges解いてみた 初級 18 - Length of Tuple編](https://qiita.com/hikagami/items/16d8242b64ae2f877521)
 - [type-challenges解いてみた 初級 14-First of Array編](https://qiita.com/hikagami/items/deb62c9ca9a116e04485)
 - [type-challenges解いてみた 初級 11-Tuple to Object編](https://qiita.com/hikagami/items/41f291c1623e5e8699f7)
 - [type-challenges解いてみた 初級 7-Readonly編](https://qiita.com/hikagami/items/77b4c54b2127f143bd46)
-- [type-challenges解いてみた 初級 4-Pick編](https://qiita.com/hikagami/items/b5f466e3fd5a684a4b8f)
 <!-- BLOG-POST-LIST:END -->
