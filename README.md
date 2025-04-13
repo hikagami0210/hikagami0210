@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,react,typescript)](https://skillicons.dev)
 
 <!-- BLOG-POST-LIST:START -->
+- [MCPサーバーを実装してCursorエディタで叩いてみる](https://qiita.com/hikagami/items/98a23f00e3c983f80858)
 - [ReactNativeでWebView内の画像をbase64に変換して取得する方法](https://qiita.com/hikagami/items/46cbe2fea4bddb49d16b)
 - [type-challenges解いてみた 初級 189 easy-awaited編](https://qiita.com/hikagami/items/ca6bd4bd5102eee98e96)
 - [type-challenges解いてみた 初級 43 - Exclude編](https://qiita.com/hikagami/items/16d8242b64ae2f877521)
-- [type-challenges解いてみた 初級 14-First of Array編](https://qiita.com/hikagami/items/deb62c9ca9a116e04485)
 <!-- BLOG-POST-LIST:END -->
